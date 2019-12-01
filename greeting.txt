@@ -1,0 +1,11 @@
+Hello World!Hello World!Hello [object Object]
+Hello EricFourmaux
+Hello EricFourmaux
+Hello EricFourmaux ! Your app resides in /Users/EricFourmaux
+Hello EricFourmaux ! Your app resides in /Users/EricFourmaux and the shell is /bin/bash
+Hello EricFourmaux or 501 ! Your app resides in /Users/EricFourmaux and the shell is /bin/bash
+Hello EricFourmaux or 501 ! Your app resides in /Users/EricFourmaux and the shell is /bin/bash
+Hello EricFourmaux or 501 ! Your app resides in /Users/EricFourmaux and the shell is /bin/bash
+You are using darwin platform.
+Hello EricFourmaux or 501 ! Your app resides in /Users/EricFourmaux and the shell is /bin/bash
+You are using darwin platform.
